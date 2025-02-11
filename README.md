@@ -3,7 +3,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline for docu
 
 ![image](https://github.com/user-attachments/assets/a3d23842-896b-4153-8383-92af19c675a2)
 
-🚀 Features
+**🚀 Features**
 
 🔍 Document Ingestion: Loads and processes PDFs using PyPDFDirectoryLoader.
 
@@ -17,7 +17,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline for docu
 
 🎛 Streamlit UI: Interactive front-end for model selection, temperature control, and response tuning.
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 LangChain (for chaining LLM queries)
 
@@ -36,7 +36,7 @@ PyPDFLoader (for document parsing)
 Streamlit (for building the UI)
 
 
-💡 How It Works
+**💡 How It Works**
 
 Document Ingestion: Load PDFs from /research_papers directory.
 
